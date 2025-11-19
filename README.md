@@ -11,3 +11,12 @@ Here are the core files and their purposes:
 Let's start with the `index.html` file:
 
 index.html
+
+## Improvements:
+- Support for keyboard input
+- Gradient background
+- Updates color scheme to feel more inviting
+- Fixed JavaScript error to change format from `eval("1+2=“)` to `eval("1+2“)`
+- Rounded buttons to improve UX
+- Fixed disorganized buttons in index.html
+- Added shadows to improve the separation of objects from each other
